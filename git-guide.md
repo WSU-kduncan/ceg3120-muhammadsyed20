@@ -2,5 +2,6 @@ This is the start of my guide.
 
 More text here.
 
-It's Friday
+It's Friday 
 
+Bob's text before lunch  
